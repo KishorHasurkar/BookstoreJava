@@ -530,6 +530,9 @@ if ( conn != null ) conn.close();
       if (pageContext != null) pageContext.handlePageException(t);
     } finally {
       if (_jspxFactory != null) _jspxFactory.releasePageContext(pageContext);
+      if (_jspxFactory != null) _jspxFactory.releasePageContext(pageContext);
+      if (_jspxFactory != null) _jspxFactory.releasePageContext(pageContext);
+      if (_jspxFactory != null) _jspxFactory.releasePageContext(pageContext);
     }
   }
 }
